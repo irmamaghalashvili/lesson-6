@@ -27,9 +27,11 @@ a {
 	right: 0;
 	width: 1440px;
 	height: 50px;
+	z-index: 2;
 }
 .hhh {
 	margin-top: 75px;
+	margin-bottom: 40px;
 }
 .section {
 	width: 1160px;
@@ -49,4 +51,19 @@ a {
 	width: 280px;
 	height: 16px;
 	color: white;
+}
+.inline {
+	display: inline-block;
+}
+.margine {
+	margin-right: 20px;
+}
+.hhhhh {
+	width: 280px;
+	height: 38px;
+	margin: 66px auto 10px auto;
+}
+.span {
+
+	margin-left: 40px;
 }
