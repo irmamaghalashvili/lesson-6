@@ -1,0 +1,52 @@
+/*mtavari*/
+a {
+	text-decoration: none;
+}
+.logo {
+	width: 38px;
+	height: 15px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 18px;
+	vertical-align: middle;
+	color: #FA6980;
+	padding-right: 92px;
+}
+.navigations {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+.nav-li {
+	display: inline-block;
+	padding-right: 22px;
+}
+.header {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 1440px;
+	height: 50px;
+}
+.hhh {
+	margin-top: 75px;
+}
+.section {
+	width: 1160px;
+	height: 410px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.relative1 {
+	position: relative;
+	width: 360px;
+	height: 350px;
+}
+.absolute1 {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	width: 280px;
+	height: 16px;
+	color: white;
+}
