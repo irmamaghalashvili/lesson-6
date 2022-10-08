@@ -67,3 +67,45 @@ a {
 
 	margin-left: 40px;
 }
+.hhhhh2 {
+	margin-top: 58px;
+	margin-bottom: 40px;
+}
+.left-box {
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.paragaraph-absolute {
+	position: absolute;
+	top: 194px;
+	left: 308px;
+	color: white;
+	font-size: 16px;
+	width: 281px;
+	height: 16px;
+}
+.left-image-relative {
+	position: relative;
+}
+.image-relative {
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+}
+.right-box {
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 834px;
+	margin-left: 40px;
+}
+.right-box-image {
+	margin-bottom: 120px;
+}
+.section2 {
+	margin-left: 140px;
+
+}
