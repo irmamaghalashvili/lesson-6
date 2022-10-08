@@ -41,17 +41,17 @@ body {
 }
 
 /*section-one*/
-.hhh {
-	font-size: 24px;
-	color: #202124;
-	margin-top: 75px;
-	margin-bottom: 40px;
-}
 .section {
+	margin-top: 75px;
 	width: 1160px;
 	height: 410px;
 	margin-left: auto;
 	margin-right: auto;
+}
+.hhh {
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
 }
 .relative1 {
 	position: relative;
