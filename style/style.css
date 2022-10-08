@@ -1,26 +1,7 @@
-/*mtavari*/
-a {
-	text-decoration: none;
+body {
+	background-color: #F6F8F9;
 }
-.logo {
-	width: 38px;
-	height: 15px;
-	display: inline-block;
-	margin-top: 20px;
-	margin-left: 18px;
-	vertical-align: middle;
-	color: #FA6980;
-	padding-right: 92px;
-}
-.navigations {
-	display: inline-block;
-	vertical-align: middle;
-	margin-top: 10px;
-}
-.nav-li {
-	display: inline-block;
-	padding-right: 22px;
-}
+/*header-fixed*/
 .header {
 	position: fixed;
 	top: 0;
@@ -29,6 +10,60 @@ a {
 	height: 50px;
 	z-index: 2;
 }
+.logo {
+	position: fixed;
+	width: 38px;
+	height: 15px;
+	display: inline-block;
+	top: 18px;
+	left: 20px;
+	color: #FA6980;
+}
+.navigations {
+	position: fixed;
+	display: inline-block;
+}
+.nav-li {
+	position: fixed;
+	width: 33px;
+	height: 12px;
+	top: 20px;
+	left: 150px;
+	display: inline-block;
+}
+.nav-lii {
+	position: fixed;
+	width: 64px;
+	height: 12px;
+	top: 20px;
+	left: 210px;
+	display: inline-block;
+}
+.nav-liii {
+	position: fixed;
+	width: 46px;
+	height: 12px;
+	top: 20px;
+	left: 296px;
+	display: inline-block;
+}
+.nav-liiii {
+	position: fixed;
+	width: 53px;
+	height: 12px;
+	top: 20px;
+	left: 364px;
+	display: inline-block;
+}
+.fixed {
+	position: fixed;
+	width: 30px;
+	height: 30px;
+	top: 11px;
+	left: 457px;
+}
+
+/*section-one*/
 .hhh {
 	margin-top: 75px;
 	margin-bottom: 40px;
@@ -53,6 +88,7 @@ a {
 	color: white;
 }
 .inline {
+	background-color: #FFFFFF;
 	display: inline-block;
 }
 .margine {
@@ -67,6 +103,7 @@ a {
 
 	margin-left: 40px;
 }
+/*section-two*/
 .hhhhh2 {
 	margin-top: 58px;
 	margin-bottom: 40px;
