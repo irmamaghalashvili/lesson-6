@@ -10,6 +10,7 @@ body {
 	margin-left: 20px;
 	display: inline-block;
 	color: #FA6980;
+	font-family: 'Helvetica';
 }
 .navigations {
 	display: inline-block;
@@ -21,9 +22,11 @@ body {
 }
 .color {
 	color: #343638;
+	font-family: 'Helvetica';
 }
 .opacity {
 	opacity: 0.5;
+	font-family: 'Helvetica';
 }
 .photo {
 	width: 30px;
@@ -52,6 +55,7 @@ body {
 	font-size: 24px;
 	color: #202124;
 	margin-bottom: 40px;
+	font-family: 'Helvetica';
 }
 .relative1 {
 	position: relative;
@@ -65,6 +69,7 @@ body {
 	width: 280px;
 	height: 16px;
 	color: white;
+	font-family: 'Helvetica';
 }
 .inline {
 	background-color: #FFFFFF;
@@ -78,6 +83,7 @@ body {
 	height: 38px;
 	color: #A6ADB4;
 	margin: 66px auto 10px auto;
+	font-family: 'Helvetica';
 }
 .span {
 	color: #A6ADB4;
@@ -89,6 +95,7 @@ body {
 	color: #202124;
 	margin-top: 58px;
 	margin-bottom: 40px;
+	font-family: 'Helvetica';
 }
 .left-box {
 	display: inline-block;
