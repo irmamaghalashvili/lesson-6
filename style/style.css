@@ -132,6 +132,7 @@ body {
 	margin-bottom: 120px;
 }
 .section2 {
-	margin-left: 140px;
+	margin-left: auto;
+	margin-right: auto;
 
 }
